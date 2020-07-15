@@ -2,20 +2,6 @@
 Community Detection CliXO
 ===================================================
 
-.. image:: https://img.shields.io/pypi/v/cdclixo.svg
-        :target: https://pypi.python.org/pypi/cdclixo
-
-.. image:: https://img.shields.io/travis/idekerlab/cdclixo.svg
-        :target: https://travis-ci.org/idekerlab/cdclixo
-
-.. image:: https://readthedocs.org/projects/cdclixo/badge/?version=latest
-        :target: https://cdclixo.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
-
-.. image:: https://requires.io/github/idekerlab/cdclixo/requirements.svg?branch=master
-        :target: https://requires.io/github/idekerlab/cdclixo/requirements?branch=master
-        :alt: Dependencies
-
 This repository creates a CDAPS compatible community detection Docker image using CliXO
 packaged from https://github.com/fanzheng10/CliXO
 
